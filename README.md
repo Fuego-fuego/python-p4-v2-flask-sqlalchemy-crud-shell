@@ -24,7 +24,7 @@
   ORM-mapped objects.
 - **Database Transaction**: A sequence of SQL statements that are processed as
   an atomic unit. All SQL statements in the transaction are either applied (
-  committed) or undone (rolled back) together.
+  committed) or undone (rolled back) together. 
 
 ---
 
